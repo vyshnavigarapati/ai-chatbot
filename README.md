@@ -23,7 +23,7 @@ An AI Conversational Chatbot built using Python, Streamlit, and OpenRouter API.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py```
+streamlit run app.py
 
 
 ## Live Demo
